@@ -4,7 +4,7 @@ This section contains tutorials to help you get started developing applications 
 
 ## Tour of heroes
 
-[Tour of Heroes](tutorial/tour-of-heroes) helps you gain confidence that Angular can do whatever you need it to do by showing you how to:
+[Tour of eroes](tutorial/tour-of-heroes) helps you gain confidence that Angular can do whatever you need it to do by showing you how to:
 
 *   Use Angular [directives](guide/glossary#directive "Directives definition") to show and hide elements and display lists of hero data.
 *   Create Angular [components](guide/glossary#component "Components definition") to display hero details and show an array of heroes.
